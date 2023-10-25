@@ -8,5 +8,8 @@ I use insightface, so you can replace the face in an existing photo, simply with
 
 I am using the stable-diffusion-inpainting model from diffusers to swap clothes, but don't worry as you don't need to perform manual inpainting.
 
-This is the result example
+This is the example result. I just chose to change the upper clothes.
 ![a](https://github.com/Bagasaaa/virtual_try_on_2Diffusers/assets/119937815/c4c6f831-7054-499f-ac19-a0588db02ec3)
+
+## How to Use?
+Just hit "python app.py"
