@@ -10,3 +10,4 @@ bottleneck_features_validation.npy
 cloth_segm.pth
 pose_iter_116000.caffemodel
 pose_iter_102000.caffemodel
+models/*
