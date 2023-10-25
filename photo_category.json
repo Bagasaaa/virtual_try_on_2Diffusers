@@ -1,0 +1,178 @@
+{
+  "kurus_pendek": {
+    "user_height": {
+      "min": 140,
+      "max": 150
+    },
+    "user_weight": {
+      "min": 35,
+      "max": 42
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "rata_rata_kurus": {
+    "user_height": {
+      "min": 151,
+      "max": 165
+    },
+    "user_weight": {
+      "min": 43,
+      "max": 51
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "tinggi_kurus": {
+    "user_height": {
+      "min": 166,
+      "max": 180
+    },
+    "user_weight": {
+      "min": 52,
+      "max": 63
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "sangat_tinggi_kurus": {
+    "user_height": {
+      "min": 181,
+      "max": 195
+    },
+    "user_weight": {
+      "min": 64,
+      "max": 75
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "normal_pendek": {
+    "user_height": {
+      "min": 140,
+      "max": 150
+    },
+    "user_weight": {
+      "min": 37,
+      "max": 49
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "normal_rata_rata": {
+    "user_height": {
+      "min": 151,
+      "max": 165
+    },
+    "user_weight": {
+      "min": 44,
+      "max": 57
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "normal_tinggi": {
+    "user_height": {
+      "min": 166,
+      "max": 180
+    },
+    "user_weight": {
+      "min": 53,
+      "max": 69
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "normal_sangat_tinggi": {
+    "user_height": {
+      "min": 181,
+      "max": 195
+    },
+    "user_weight": {
+      "min": 65,
+      "max": 85
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "gendut_pendek": {
+    "user_height": {
+      "min": 140,
+      "max": 150
+    },
+    "user_weight": {
+      "min": 49,
+      "max": 58
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "gendut_rata_rata": {
+    "user_height": {
+      "min": 151,
+      "max": 165
+    },
+    "user_weight": {
+      "min": 58,
+      "max": 69
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "gendut_tinggi": {
+    "user_height": {
+      "min": 166,
+      "max": 180
+    },
+    "user_weight": {
+      "min": 70,
+      "max": 83
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "gendut_sangat_tinggi": {
+    "user_height": {
+      "min": 181,
+      "max": 195
+    },
+    "user_weight": {
+      "min": 86,
+      "max": 102
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "obesitas_pendek": {
+    "user_height": {
+      "min": 140,
+      "max": 150
+    },
+    "user_weight": {
+      "min": 60,
+      "max": 70
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "obesitas_rata_rata": {
+    "user_height": {
+      "min": 151,
+      "max": 165
+    },
+    "user_weight": {
+      "min": 71,
+      "max": 84
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "obesitas_tinggi": {
+    "user_height": {
+      "min": 166,
+      "max": 180
+    },
+    "user_weight": {
+      "min": 85,
+      "max": 103
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  },
+  "obesitas_sangat_tinggi": {
+    "user_height": {
+      "min": 181,
+      "max": 195
+    },
+    "user_weight": {
+      "min": 104,
+      "max": 125
+    },
+    "user_race": ["african", "indonesian", "east asian", "western"]
+  }
+}

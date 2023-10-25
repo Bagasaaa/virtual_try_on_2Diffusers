@@ -1,0 +1,39 @@
+<!doctype html>
+<title>Change Clothes</title>
+<h1>Change Your Clothes!</h1>
+<form method=post enctype=multipart/form-data>
+  Upload Foto Wajah User<br><br>
+  <input type=file name=user_selfie_photo> <br><br><br>
+  Input Tinggi User (centimeter)<br>
+  <input type="text" name=user_height> <br><br><br>
+  Input Berat Badan User (kilogram)<br>
+  <input type="text" name=user_weight> <br><br><br>
+  Input Ras User<br>
+  <!-- <input type="text" name=user_race> <br><br><br> -->
+    <select name=user_race style="width: 100px; height: 20px;">
+      <option value="Indonesian">Indonesian</option>
+      <option value="African">African</option>
+      <option value="East Asian">East Asian</option>
+      <option value="Western">Western</option>
+    </select>
+    <br>
+    <br>
+  Input Pilihan Outfit Yang Ingin Diganti (Top / Bottom)<br>
+  <!-- <select type="text" name=user_choose_outfit_what_to_change> <br><br><br> -->
+    <select name=user_choose_outfit_what_to_change style="width: 100px; height: 20px;">
+      <option value="Top">Top</option>
+      <option value="Bottom">Bottom</option>
+    </select>
+    <br>
+    <br>
+  Input Perintah / Prompt<br>
+  <input type="text" name=prompt> <br><br><br>
+  Input Perintah Larangan /  Negative Prompt<br>
+  <input type="text" name=negative_prompt>
+  <!-- <input type=file name=clothes_choose_mask> -->
+  <br>
+  <br>
+  <input type=submit value=Upload>
+  <br>
+  <br>
+</form>
