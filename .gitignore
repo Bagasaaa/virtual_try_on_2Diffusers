@@ -1,0 +1,12 @@
+# Ignore the "env" folder
+env/
+huggingface-cloth-segmentation/env_segment/
+buffalo_l.zip
+1k3d68.onnx
+w600k_r50.onnx
+inswapper_128.onnx
+bottleneck_features_train.npy
+bottleneck_features_validation.npy
+cloth_segm.pth
+pose_iter_116000.caffemodel
+pose_iter_102000.caffemodel
