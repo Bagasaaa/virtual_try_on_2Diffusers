@@ -4,7 +4,7 @@ Virtual Try On 2D using Inswapper and Inpainting Model. Users can customize thei
 Many thanks to this repository https://github.com/wildoctopus/huggingface-cloth-segmentation
 I use it for cloth segmentation (users can choose whether to change the upper or bottom).
 
-I collaborate to do this project with a nice teammate [silvering-steve](https://github.com/silvering-steve/)
+Special thanks my teammate [silvering-steve](https://github.com/silvering-steve/), I got inspired to use insightface and inpainting model from you!
 
 I use insightface, so you can replace the face in an existing photo, simply with a clear selfie photo of the desired face.
 
